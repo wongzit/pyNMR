@@ -3,9 +3,9 @@
 py.**NMR** is a Python program for easily applying scaling factor to computed magnetic shielding 
 tensors.
 
-## How to run
+## How to run (on macOS)
 
-1. For macOS users, download the source code file named as `pyNMR_src_xxx.py` to your computer, open `Terminal`.
+1. Download the source code file named as `pyNMR_src_xxx.py` to your computer, open `Terminal`.
 2. Assume the `pyNMR_src_xxx.py` is located at `/Users/usrname/Desktop/pyNMR_src_xxx.py`, execute following command in `Terminal` window:
 
 ```
