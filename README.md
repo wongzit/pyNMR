@@ -85,6 +85,9 @@ The data will be saved as a .txt file in current dictionary.
 
 ## Update history
 
+### v1.0 (2021-09-03)
+Updated UI.
+
 ### v0.2 (2021-09-03)
 
 First pre-release of py.**NMR**.
