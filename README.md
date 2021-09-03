@@ -1,4 +1,4 @@
-# pyNMR
+# py.NMR
 
 py.**NMR** is a Python program for easily applying scaling factor to computed magnetic shielding 
 tensors.
@@ -82,3 +82,9 @@ Save NMR data to .txt file? (y/n): y
 ```
 
 The data will be saved as a .txt file in current dictionary.
+
+## Update history
+
+### v0.2 (2021-09-03)
+
+First pre-release of py.**NMR**.
