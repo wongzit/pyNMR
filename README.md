@@ -1,5 +1,5 @@
 # py.NMR
-
+![](pyNMR_rm.png)
 py.**NMR** is a Python program for easily applying scaling factor to computed magnetic shielding 
 tensors.
 
