@@ -65,13 +65,42 @@ Please specify the slope and intercept:
 -----------------------------------
 ```
 
-If users want to save the magnetic shielding tensors and scaled chemical shift values, input "y" in following message:
+The magnetic shielding tensors (and scaled chemical shift, if avaibable) will be saved as a .txt file in the same dictionary.
 
 ```
-Save NMR data to .txt file? (y/n): y
+A .txt file will be saved at same dictionary with the output file.
 ```
 
-The data will be saved as a .txt file in current dictionary.
+If scaling factors were applied, a .xlsx file would be saved to plot NMR spectrum. The peak broadening is based on Lorentizan function, 
+users can draw the scaled NMR spectrum with the data points in saved Excel file. The default parameters for NMR spectrum range is from 9.5 ppm 
+to -0.5 ppm, and half-width at half height is 0.01 ppm. Users can modify these parameters by input menu number. The current setting would be 
+displayed in command windows, press ENTER to use current parameters.
+
+```
+===============================================================
+         Scaled NMR spectrum will be saved in .xlsx file
+---------------------------------------------------------------
+       1 - Spectrum range: from 10.5 to -0.5 ppm
+       2 - Peak half-width at half height: 0.01 ppm
+===============================================================
+Press ENTER to use current setting, or input menu number
+  to modify the parameters: 1
+
+Please specify the range from MAX to MIN:
+0 8
+
+===============================================================
+         Scaled NMR spectrum will be saved in .xlsx file
+---------------------------------------------------------------
+       1 - Spectrum range: from 8.0 to 0.0 ppm
+       2 - Peak half-width at half height: 0.01 ppm
+===============================================================
+Press ENTER to use current setting, or input menu number
+  to modify the parameters: (ENTER)
+```
+
+A .xlsx would be saved in the same dictionary.
+![](/example/example_fig.png)
 
 ## Update history
 
