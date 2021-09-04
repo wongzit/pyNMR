@@ -100,7 +100,7 @@ Press ENTER to use current setting, or input menu number
 ```
 
 A .xlsx would be saved in the same dictionary. And user can plot the spectrum with these data!
-![](/example/example_fig.png)
+![](/example/benzene_fig.png)
 
 ## Update history
 
