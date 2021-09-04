@@ -3,16 +3,6 @@
 py.**NMR** is a Python program for easily applying scaling factor to computed magnetic shielding 
 tensors.
 
-## How to run (on macOS)
-
-1. Download the source code file named as `pyNMR_src_xxx.py` to your computer, open `Terminal`.
-2. Assume the `pyNMR_src_xxx.py` is located at `/Users/usrname/Desktop/pyNMR_src_xxx.py`, execute following command in `Terminal` window:
-
-```
-cd /Users/usrname/Desktop
-python3 pyNMR_src_xxx.py
-```
-
 ## Usage
 
 py.**NMR** reads a Gaussian output of NMR calculation and extracting magnetic shielding 
@@ -84,6 +74,10 @@ Save NMR data to .txt file? (y/n): y
 The data will be saved as a .txt file in current dictionary.
 
 ## Update history
+
+### v2.0 (2021-09-03)
+1. Now .txt will be automatically saved in current dictionary.
+2. Lorentzian function will be applied to scaled chemical shift and the spectrum data would be saved as a .xlsx file in current dictionary.
 
 ### v1.0 (2021-09-03)
 Updated UI.
