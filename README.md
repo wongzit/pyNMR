@@ -99,7 +99,7 @@ Press ENTER to use current setting, or input menu number
   to modify the parameters: (ENTER)
 ```
 
-A .xlsx would be saved in the same dictionary.
+A .xlsx would be saved in the same dictionary. And user can plot the spectrum with these data!
 ![](/example/example_fig.png)
 
 ## Update history
