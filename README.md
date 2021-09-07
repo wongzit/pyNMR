@@ -103,6 +103,8 @@ A .xlsx would be saved in the same dictionary. And user can plot the spectrum wi
 ![](/example/benzene_fig.png)
 
 ## Update history
+### v2.1 (2021-09-06)
+Smaller split value for NMR plot is adapted. (0.001 ppm in v2.1, 0.05 ppm in older versions)
 
 ### v2.0 (2021-09-03)
 1. Now .txt will be automatically saved in current dictionary.
