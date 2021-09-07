@@ -1,0 +1,17 @@
+Saved with py.NMR by Zhe Wang
+Homepage: https://wongzit.github.io
+
+
+  - Magnetic Shielding Tensors -
+-----------------------------------
+  No.      Atom       Sigma (ppm)
+-----------------------------------
+    1        C           49.7135
+    2        C           49.6118
+    3        C           49.6089
+    4        C           49.7133
+    5        C           49.6121
+    6        C           49.6095
+-----------------------------------
+
+
